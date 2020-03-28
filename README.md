@@ -1,1 +1,1 @@
-This is Currency-Converter-app created with React
+This is Currency-Converter application on React
